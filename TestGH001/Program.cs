@@ -6,7 +6,7 @@ namespace TestGH001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World I am making my first commit from a new device!");
         }
     }
 }
